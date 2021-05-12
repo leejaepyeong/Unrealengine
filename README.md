@@ -69,3 +69,18 @@ water , mass 플래그
 ### 인게임
 
 ##### ctrl + L 마우스 이동 통해  광원 위치(어디서 비치는지  시간 흐름처럼)
+
+
+### 매터리얼
+
+![image](https://user-images.githubusercontent.com/80494367/117909227-cde53300-b314-11eb-9f70-a8c50f098b0e.png)
+
+![image](https://user-images.githubusercontent.com/80494367/117909471-45b35d80-b315-11eb-92c8-76696eafcda8.png)
+
+   
+#### 1번키 + 클릭 :  상수 창
+2번키 + 클릭 : 2포인터(2배열)
+3번키 + 클릭 : 3포인터(3배열)
+T키 + 클릭 : 텍스쳐
+L : Lerp
+M : Multiply
