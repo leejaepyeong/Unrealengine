@@ -103,4 +103,27 @@ ctrl 클릭으로 연결 괸 선 제거 가능
    
    landscape LayerCoords : 지형의 크기(UV) 조절 / 
       
+
+### asset 집어넣기
+#####   
+
+![image](https://user-images.githubusercontent.com/80494367/117921441-b5ccde00-b32b-11eb-9999-0395d2d28254.png)
+   
+   skeletal mesh  : 뼈대가 존재하는것들
+   mesh  고급 툴 > Import Mesh LODs  :  LOD 전부다 순서맞게 임포트
       
+   Generate Lightmap UVs : 자동으로  라이트맵 구현
+      
+   Transform : 로테이션  위치  크기 등 조절가능 // 사전 임포트하는 오브젝트의 방향이 어긋날때 미리 수정
+      
+   Material
+   
+   
+![image](https://user-images.githubusercontent.com/80494367/117922824-02191d80-b32e-11eb-8b8f-70d82644bfea.png)
+
+UV채널 0,1,2... 기존 UV맵  라이트맵
+콜라이더 : 단순 / 복합 콜라이더 (충돌)
+
+![image](https://user-images.githubusercontent.com/80494367/117924344-8e2c4480-b330-11eb-87b9-2265b8acc1f5.png)
+
+각 텍스쳐 맞게  연결해주기  이후 매터리얼 오브젝트에 입히기
