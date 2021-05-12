@@ -38,8 +38,34 @@
 ![image](https://user-images.githubusercontent.com/80494367/117903143-fae01880-b309-11eb-939a-add19da37064.png)
 ![image](https://user-images.githubusercontent.com/80494367/117903180-0a5f6180-b30a-11eb-950e-30c62041a24a.png)
    
+##### 리플렉션 : 반사 이펙트
+볼륨 : 포스트 프로세스 볼륨 / 라이트매스 임포턴스 볼륨
+공간감 살리기   
+
+
+### 세팅창들
+
+![image](https://user-images.githubusercontent.com/80494367/117903676-f2d4a880-b30a-11eb-9fe2-b2ec0bad5fe2.png)
+
+#### 플래그
+![image](https://user-images.githubusercontent.com/80494367/117903879-5232b880-b30b-11eb-80ab-37fe32b56b13.png)
+
+water , mass 플래그
+
+#### 프로젝트 세팅
+![image](https://user-images.githubusercontent.com/80494367/117904129-c0777b00-b30b-11eb-8603-d155c421857e.png)
+   
+   맵 & 모드 :  기본적인 맵세팅 등
+
+![image](https://user-images.githubusercontent.com/80494367/117904408-47c4ee80-b30c-11eb-9e38-8ad11193f143.png)
+
+   입력 (컨트롤 창)
+   
+
+나이아가라 : Fx플래그
 
 
 
+### 인게임
 
-### 
+##### ctrl + L 마우스 이동 통해  광원 위치(어디서 비치는지  시간 흐름처럼)
