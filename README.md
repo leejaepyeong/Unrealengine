@@ -92,13 +92,15 @@ ctrl 클릭으로 연결 괸 선 제거 가능
 // 언리얼 복사 : ctrl + w
    
    
-#### landscape
+### landscape
    
    ![image](https://user-images.githubusercontent.com/80494367/117909797-e275fb00-b315-11eb-9bc1-b681680646da.png)
 
-   landscape LayerBlend : 각 특성(땅 나무 하늘)마다 레이어를 주고  각 레이어마다 편집
+   ####landscape LayerBlend : 각 특성(땅 나무 하늘)마다 레이어를 주고  각 레이어마다 편집
      배이스 컬러 / 노말맵 / 러프니스 / 엠비언트 오클루젼 등  각 지형(landscape)의 물체마다 텍스쳐 입히기
    
-   ![image](https://user-images.githubusercontent.com/80494367/117910815-96c45100-b317-11eb-8a99-478c5fe6ded1.png)
+   ![image](https://user-images.githubusercontent.com/80494367/117910927-cffcc100-b317-11eb-8ce4-ab2cb04c2e86.png)
    
-   landscape LayerCoords : 지형의 크기(UV) 조절 
+   landscape LayerCoords : 지형의 크기(UV) 조절 / 
+      
+      
