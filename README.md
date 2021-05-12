@@ -85,6 +85,10 @@ T키 + 클릭 : 텍스쳐
 L : Lerp
 M : Multiply
 
+c : 선택한 옵션들을 그룹화
+
+ctrl 클릭으로 연결 괸 선 제거 가능
+
 // 언리얼 복사 : ctrl + w
    
    
@@ -95,3 +99,6 @@ M : Multiply
    landscape LayerBlend : 각 특성(땅 나무 하늘)마다 레이어를 주고  각 레이어마다 편집
      배이스 컬러 / 노말맵 / 러프니스 / 엠비언트 오클루젼 등  각 지형(landscape)의 물체마다 텍스쳐 입히기
    
+   ![image](https://user-images.githubusercontent.com/80494367/117910815-96c45100-b317-11eb-8a99-478c5fe6ded1.png)
+   
+   landscape LayerCoords : 지형의 크기(UV) 조절 
