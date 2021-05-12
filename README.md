@@ -84,3 +84,14 @@ water , mass 플래그
 T키 + 클릭 : 텍스쳐
 L : Lerp
 M : Multiply
+
+// 언리얼 복사 : ctrl + w
+   
+   
+#### landscape
+   
+   ![image](https://user-images.githubusercontent.com/80494367/117909797-e275fb00-b315-11eb-9bc1-b681680646da.png)
+
+   landscape LayerBlend : 각 특성(땅 나무 하늘)마다 레이어를 주고  각 레이어마다 편집
+     배이스 컬러 / 노말맵 / 러프니스 / 엠비언트 오클루젼 등  각 지형(landscape)의 물체마다 텍스쳐 입히기
+   
