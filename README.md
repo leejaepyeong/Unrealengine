@@ -127,3 +127,20 @@ UV채널 0,1,2... 기존 UV맵  라이트맵
 ![image](https://user-images.githubusercontent.com/80494367/117924344-8e2c4480-b330-11eb-87b9-2265b8acc1f5.png)
 
 각 텍스쳐 맞게  연결해주기  이후 매터리얼 오브젝트에 입히기
+   
+      
+## 랜드스케이프
+모드에서 랜드스케이프
+![image](https://user-images.githubusercontent.com/80494367/117926510-d8fb8b80-b333-11eb-965c-c28fc0cbabdd.png)
+
+
+![image](https://user-images.githubusercontent.com/80494367/117929260-8e7c0e00-b337-11eb-8c6b-f7750683aea1.png)
+## 랜드스케이프 + 플랜트 모드
+
+지형편집 +  플랜츠 심기 :  블루프린트  브러쉬를 사전에 플래그로 설치한 랜드로  맞춘후  그리기
+
+![image](https://user-images.githubusercontent.com/80494367/117929864-427d9900-b338-11eb-8859-407160372b86.png)
+
+
+effect  curnoise 에서 효과 추가 가능(랜드 모양)
+
